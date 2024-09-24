@@ -1,15 +1,10 @@
-Visual Encoding
-Graphical Perception
-Timevarying phenomena
-Agregate
-Stream graph
-effective visualization
-data density
-Stem and leaf plots
-Parallel coordinates
-multivariate data
-Design
-Cartographic projection
-graduated symbol maps
-chloropleth
-Scannning
+Index Chart
+Horizon Graph
+Stem-and-Leaf Plot
+Graduated Symbol Map
+Dorling Cartogram
+Node-Link Diagram
+Dendrogram
+Indented Tree
+Treemap
+
