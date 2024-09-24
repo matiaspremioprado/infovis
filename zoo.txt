@@ -1,4 +1,3 @@
-Questions
 Visual Encoding
 Graphical Perception
 Timevarying phenomena
@@ -14,4 +13,3 @@ Cartographic projection
 graduated symbol maps
 chloropleth
 Scannning
-
